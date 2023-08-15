@@ -13,3 +13,7 @@
 `Project_Report.pdf`: This study predicted the bus on-time performance based on several machine learning models, including **decision tree, random forest, support vector machine, and XGBoost**.
 
 ![image](https://github.com/Anran0716/miami-ontime/blob/main/table.PNG)
+
+`TRB.pdf`: We developed a **time-fixed effects** model to examine the association of service reliability with transit ridership. This paper is submitted to the 2024 TRB Conference. 
+
+![image](https://github.com/Anran0716/miami-ontime/blob/main/table2.png)
