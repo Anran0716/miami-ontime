@@ -8,6 +8,8 @@
 
 `service time & bus number passing by a stop.ipynb`: We computed the daily service time for each route and the daily number of transit vehicles serving each transit stop to understand the transit service supply.
 
+![image](https://github.com/Anran0716/miami-ontime/blob/main/flowchart.jpg)
+
 ![image](https://github.com/Anran0716/miami-ontime/blob/main/ontime.PNG)
 
 `Project_Report.pdf`: This study predicted the bus on-time performance based on several machine learning models, including **decision tree, random forest, support vector machine, and XGBoost**.
