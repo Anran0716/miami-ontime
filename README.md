@@ -4,13 +4,13 @@
 
  ## Data Visualization 
 
-[`Miami bus SQL.sql`](Miami bus SQL.sql): The bus GPS data was first processed with optimized SQL queries in **AWS Redshift**, generating 30+ fact and dimension tables to calculate KPIs, such as delay frequency and route-level reliability.
+[`Miami_bus_SQL.sql`](Miami_bus_SQL.sql): The bus GPS data was first processed with optimized SQL queries in **AWS Redshift**, generating 30+ fact and dimension tables to calculate KPIs, such as delay frequency and route-level reliability.
  
- [`miami-dade transit on-time performance analysis.pdf`](miami-dade transit on-time performance analysis.pdf): this provides a detailed report of Miami-Dade Transit on-time performance, which was posted on [Transit Alliance Miami](https://www.transitalliance.miami/mobilityscorecard2023). 
+ [`AnalysisReport.pdf`](AnalysisReport.pdf): this provides a detailed report of Miami-Dade Transit on-time performance, which was posted on [Transit Alliance Miami](https://www.transitalliance.miami/mobilityscorecard2023). 
 
 [`Visualization.ipynb`](Visualization.ipynb):  We applied two KPIs for analyzing the service reliability: arrival time differencee and headway difference. 
 
-[`service time & bus number passing by a stop.ipynb`](service time & bus number passing by a stop.ipynb): We computed the daily service time for each route and the daily number of transit vehicles serving each transit stop to understand the transit service supply.
+[`StopAnalysis.ipynb`](StopAnalysis.ipynb): We computed the daily service time for each route and the daily number of transit vehicles serving each transit stop to understand the transit service supply.
 
 ![image](https://github.com/Anran0716/miami-ontime/blob/main/flowchart.jpg)
 
